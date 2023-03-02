@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="93c9feca9799e510c752b156f053af17" label="test" max_length="40" name="x_58872_needit_test" type="collection">
+        <element label="new field" max_length="40" name="new_field" type="integer"/>
+        <element label="new field 2" max_length="40" name="new_field_2" type="integer"/>
+    </element>
+</database>
